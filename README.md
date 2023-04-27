@@ -40,7 +40,7 @@ npx cypress run
 ```
 Esse comando executara todo o projeto em headless
 
-## Package da bibliote npm
+## Package da biblioteca npm
 Nesse projeto foi utilizado alguns packages da biblioteca "npm"
 - mochawesome  (Para gerar reports em html)
 ```
